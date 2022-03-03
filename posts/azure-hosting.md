@@ -10,7 +10,7 @@ Ability to navigate the Azure Portal.
 Creating basic Git repos.
 Find more below
 
-Here's an in-depth blog on Medium: https://medium.com/@shatilshahriar009/deploying-a-gatsbyjs-site-on-azure-73c1881b3ad7
+[Here's an in-depth blog on Medium](https://medium.com/@shatilshahriar009/deploying-a-gatsbyjs-site-on-azure-73c1881b3ad7)
 
 
 
